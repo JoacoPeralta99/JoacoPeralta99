@@ -12,7 +12,7 @@ Lenguajes de Programacion:
 - HTML
 - CSS
 - R
-Bases de Datos:
+ Bases de Datos:
 - MySQL
 - MongoDB
 - PostgreSQL
