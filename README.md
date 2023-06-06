@@ -5,14 +5,12 @@
 
 ## Habilidades
 
-Lenguajes de Programacion:
+Lenguajes y tecnologias:
 - Python
 - JavaScript
 - HTML
 - CSS
 - R
-
- Bases de Datos:
 - MySQL
 - MongoDB
 - PostgreSQL
@@ -25,7 +23,6 @@ Frameworks y Bibliotecas:
 - 
 - Control de Versiones:
 - Git
-- GitHub
 - 
 Herramientas de Desarrollo:
 - Visual Studio Code
