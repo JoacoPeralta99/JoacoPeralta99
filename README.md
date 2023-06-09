@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python and javascript
 
 
-## My Skill Set  
+## Languages and Technologies
 <table><tr><td valign="top" width="33%">
 
 
