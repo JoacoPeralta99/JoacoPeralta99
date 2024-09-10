@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joaquin Peralta
-- 👀 I’m interested in ...software
-- 🌱 I’m currently learning ...python and javascript
+👋 Hi, I’m Joaquín Peralta
+👀 I’m passionate about software development and staying up-to-date with the latest technologies.
+🌱 I’m currently enhancing my skills in Python and JavaScript, and exploring new frameworks and tools.
 
 
 ## Languages and Technologies
