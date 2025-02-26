@@ -9,14 +9,14 @@
 🔹 Strengthening my knowledge in **database management and backend optimization**  
 
 ## 🔍 Exploring & Learning:  
-🌍 Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, CI/CD
-📊 Data: Data Analysis, Data Science
-🤖 Tech Trends: Automation, API Design, Scalable Architectures  
+🌍 **Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, CI/CD**  
+📊 **Data: Data Analysis, Data Science**  
+🤖 **Tech Trends: Automation, API Design, Scalable Architectures**    
 
 📚 **Always learning & evolving** — I enjoy tackling complex problems and staying up-to-date with the latest technologies.  
 
 📬 **Let’s connect!**  
-💼 [LinkedIn](https://www.linkedin.com/in/joaquin-peralta99/) | 📧 [Email](joacoperalta99@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/joaquin-peralta99/) | 📧 joacoperalta99@gmail.com
 
 
 ## Languages and Technologies
