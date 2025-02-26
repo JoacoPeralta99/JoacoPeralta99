@@ -1,6 +1,22 @@
-- 👋 Hi, I’m Joaquín Peralta
-- 👀 I’m passionate about software development and staying up-to-date with the latest technologies.
-- 🌱 I’m currently enhancing my skills in Python and JavaScript, and exploring new frameworks and tools.
+# 👋 Hey there! I'm Joaquín Peralta  
+
+💻 **Backend Developer | Software Engineer**  
+🎯 Passionate about **crafting efficient solutions, writing clean code, and building scalable applications**  
+
+## 🚀 What I'm currently working on:  
+🔹 Sharpening my skills in **Python, Django, JavaScript, and SQL**  
+🔹 Enhancing **software testing, debugging, and quality assurance**  
+🔹 Strengthening my knowledge in **database management and backend optimization**  
+
+## 🔍 Exploring & Learning:  
+🌍 Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, CI/CD
+📊 Data: Data Analysis, Data Science
+🤖 Tech Trends: Automation, API Design, Scalable Architectures  
+
+📚 **Always learning & evolving** — I enjoy tackling complex problems and staying up-to-date with the latest technologies.  
+
+📬 **Let’s connect!**  
+💼 [LinkedIn](https://www.linkedin.com/in/joaquin-peralta99/) | 📧 [Email](joacoperalta99@gmail.com)
 
 
 ## Languages and Technologies
